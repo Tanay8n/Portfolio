@@ -51,11 +51,3 @@ The portfolio includes the following sections:
 | Solve button | Automatically solves the cube |
 
 ---
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-
-```
